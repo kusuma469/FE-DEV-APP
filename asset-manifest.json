@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fe-dev-app/static/css/main.c94936b2.css",
-    "main.js": "/fe-dev-app/static/js/main.057a50ad.js",
-    "index.html": "/fe-dev-app/index.html",
-    "main.c94936b2.css.map": "/fe-dev-app/static/css/main.c94936b2.css.map",
-    "main.057a50ad.js.map": "/fe-dev-app/static/js/main.057a50ad.js.map"
+    "main.css": "/FE-DEV-APP/static/css/main.c94936b2.css",
+    "main.js": "/FE-DEV-APP/static/js/main.057a50ad.js",
+    "index.html": "/FE-DEV-APP/index.html",
+    "main.c94936b2.css.map": "/FE-DEV-APP/static/css/main.c94936b2.css.map",
+    "main.057a50ad.js.map": "/FE-DEV-APP/static/js/main.057a50ad.js.map"
   },
   "entrypoints": [
     "static/css/main.c94936b2.css",
